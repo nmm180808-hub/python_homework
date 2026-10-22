@@ -1,0 +1,14 @@
+{
+    "requests_by_method": {
+        "GET": 4,
+        "POST": 1
+    },
+    "errors_4xx": 2,
+    "requests_by_url": {
+        "index.html": 1,
+        "login": 2,
+        "admin": 1,
+        "api/users": 1
+    },
+    "most_common_url": "login"
+}
